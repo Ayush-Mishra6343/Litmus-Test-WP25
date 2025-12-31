@@ -37,3 +37,5 @@ Introduction to NLP
 - https://youtu.be/6C0sLtw5ctc?si=c5m__TVOSE83klZy (Data preprocessing in NLP)
 - https://youtu.be/vo6gQz5lYRI?si=OIsc6fKpWcblV1yl (Word embeddings: Bow, TF-IDF)
 - https://youtu.be/DDfLc5AHoJI?si=XNGdaY06cd2RgNtu (Other word embedding techniques)
+- https://youtu.be/e9U0QAFbfLI?si=QAwT8ICBgHqdmdwf (Cosine Similarity theory)
+  
